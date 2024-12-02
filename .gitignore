@@ -130,9 +130,9 @@ ENV/
 env.bak/
 venv.bak/
 
-movie_recommendation/kaggle.json
+**/kaggle.json
 
-movie_recommendation/data/
+**/data/
 # Spyder project settings
 .spyderproject
 .spyproject
